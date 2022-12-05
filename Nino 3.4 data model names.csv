@@ -1,0 +1,41 @@
+model number,model names abbr,model type,model counts,model description
+1,AUS/ACCESS,D,11,CSIRO Australian Community Climate and Earth System Simulator
+2,AUS/POAMA,D,209,"Predictive Ocean Atmosphere Model for Australia, Bureau of Meteorology"
+3,BCC_CSM11m,D,37,Beijing Climate Center SM1.1 Dynamic Model
+4,BCC_RZDM,S,17,Beijing Climate Center RZDM
+5,CDC LIM,S,181,NOAA/CDC Linear inverse model
+6,CMC CANSIP,D,101,Government of Canada CanSIPS
+7,COLA ANOM,D,117,"COLA Anomaly Coupled Model, Center for Ocean-Land-Atmosphere Studies"
+8,COLA CCSM3,D,93,"The Community Climate System Model 3.0, maintained and released by Climate and Global Dynamics Laboratory (CGD) at the National Center for Atmospheric Research (NCAR)."
+9,COLA CCSM4,D,52,"The Community Climate System Model 4.0, maintained and released by Climate and Global Dynamics Laboratory (CGD) at the National Center for Atmospheric Research (NCAR)."
+10,CPC CA,S,220,NOAA CPC Constructed Analogue
+11,CPC CCA,S,181,NOAA CPC Canonical Correlation Analysis
+12,CPC MRKOV,S,220,NOAA CPC MARKOV
+13,CS-IRI-MM,D,102,"University of Pretoria, Willem Landman"
+14,CSU CLIPR,S,220,Colorado State University
+15,ECHAM/MOM,D,105,Max Planck Institute for Meteorology
+16,ECMWF,D,220,European Centre for Medium-Range Weather Forecasts SEAS5
+17,ESSIC ICM,D,143,"Intermediate Coupled Model (ICM), Earth System Science Interdisciplinary Center, University of Mariland"
+18,FSU REGR,S,205,Florida State University
+19,GFDL CM2.1,D,102,"CM2.1, Geophysical Fluid Dynamic Laboratory"
+20,GFDL CM2.5,D,9,"CM2.5(higher resolution than FLOR), Geophysical Fluid Dynamic Laboratory"
+21,GFDL FLOR,D,64,"FLOR (higher resolution than CM2.1), Geophysical Fluid Dynamic Laboratory"
+22,IAP-NN,S,12,Institute of Applied Physics of the Russian Academy of Sciences
+23,IOCAS ICM,D,58,"Institute of Oceanology, Chinese Academy of Sciences"
+24,JMA,D,220,Tokyo Climate Center
+25,JPN-FRCGC,D,80,"Coupled General Circulation Model, Frontier Research Center For Global Change, Japan"
+26,KMA SNU,D,219,Korean Met Agency SNU
+27,LDEO,D,220,"Lamont-Doherty Earth Observatory, Columbia University"
+28,MetFRANCE,D,157,Meteo France Seasonal Forecast
+29,NASA GMAO,D,219,NASA GMAO GEOS-S2S
+30,NCEP CFS,D,128,NOAA Climate Prediction Center NCEP CFS
+31,NCEP CFSv2,D,107,NOAA Climate Prediction Center NCEP CFSv2
+32,NTU CODA,S,26,Taiwan Computational Oceanography and Dynamics of A-rSea Interaction Lab
+33,PSD-CU LIM,S,21,
+34,SAUDI-KAU,D,39,Saudi King Abdulaziz University Climate Center
+35,SCRIPPS,D,182,"SCRIPPS Institute of  Oceanography, UC San Diego"
+36,SINTEX-F,D,69,Japanese Agency for Marine-Earth Science and Technology
+37,UBC NNET,S,211,UBC(University of British Columbia?) Neural Network
+38,UCLA-TCD,S,196,UCLA Theoretical Climate Dynamics
+39,UKMO,D,185,UK Met Office GloSea 6
+40,UNB/CWC,S,19,UNB/CWC nonlinear PCA
